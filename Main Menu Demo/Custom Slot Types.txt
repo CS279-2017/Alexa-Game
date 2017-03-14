@@ -1,0 +1,4 @@
+LIST_OF_GAMES:
+hangman
+fortunately unfortunately
+quizzer
